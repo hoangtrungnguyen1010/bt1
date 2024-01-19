@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T11:45:37.183Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="22.1.21" etag="iv8ifQQst1_vsHjfEAEo" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T11:45:49.586Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="j8Yre2z-o1oKG8LBmysH" version="22.1.21" type="github">
   <diagram name="Trang-1" id="ycfWztGAG6fQPTc_3Ak8">
-    <mxGraphModel>
+    <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mCLd9XdKiKfcRB1NWOTL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCLd9XdKiKfcRB1NWOTL-2" target="mCLd9XdKiKfcRB1NWOTL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mCLd9XdKiKfcRB1NWOTL-2" value="Web Segmentation" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mCLd9XdKiKfcRB1NWOTL-3" value="Reformat Text&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mCLd9XdKiKfcRB1NWOTL-4" value="Information Extractor with LLMs" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mCLd9XdKiKfcRB1NWOTL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
